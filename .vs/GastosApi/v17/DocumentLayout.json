@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\camil\\source\\repos\\GastosApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77BFF0A9-10E1-4C65-B46F-51F3E1EB9CFB}|GastosApi\\GastosApi.csproj|c:\\users\\camil\\source\\repos\\gastosapi\\gastosapi\\controllers\\gastoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BFF0A9-10E1-4C65-B46F-51F3E1EB9CFB}|GastosApi\\GastosApi.csproj|solutionrelative:gastosapi\\controllers\\gastoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BFF0A9-10E1-4C65-B46F-51F3E1EB9CFB}|GastosApi\\GastosApi.csproj|c:\\users\\camil\\source\\repos\\gastosapi\\gastosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77BFF0A9-10E1-4C65-B46F-51F3E1EB9CFB}|GastosApi\\GastosApi.csproj|solutionrelative:gastosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BFF0A9-10E1-4C65-B46F-51F3E1EB9CFB}|GastosApi\\GastosApi.csproj|c:\\users\\camil\\source\\repos\\gastosapi\\gastosapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BFF0A9-10E1-4C65-B46F-51F3E1EB9CFB}|GastosApi\\GastosApi.csproj|solutionrelative:gastosapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BFF0A9-10E1-4C65-B46F-51F3E1EB9CFB}|GastosApi\\GastosApi.csproj|c:\\users\\camil\\source\\repos\\gastosapi\\gastosapi\\models\\gasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BFF0A9-10E1-4C65-B46F-51F3E1EB9CFB}|GastosApi\\GastosApi.csproj|solutionrelative:gastosapi\\models\\gasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BFF0A9-10E1-4C65-B46F-51F3E1EB9CFB}|GastosApi\\GastosApi.csproj|c:\\users\\camil\\source\\repos\\gastosapi\\gastosapi\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BFF0A9-10E1-4C65-B46F-51F3E1EB9CFB}|GastosApi\\GastosApi.csproj|solutionrelative:gastosapi\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BFF0A9-10E1-4C65-B46F-51F3E1EB9CFB}|GastosApi\\GastosApi.csproj|c:\\users\\camil\\source\\repos\\gastosapi\\gastosapi\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BFF0A9-10E1-4C65-B46F-51F3E1EB9CFB}|GastosApi\\GastosApi.csproj|solutionrelative:gastosapi\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BFF0A9-10E1-4C65-B46F-51F3E1EB9CFB}|GastosApi\\GastosApi.csproj|c:\\users\\camil\\source\\repos\\gastosapi\\gastosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BFF0A9-10E1-4C65-B46F-51F3E1EB9CFB}|GastosApi\\GastosApi.csproj|solutionrelative:gastosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BFF0A9-10E1-4C65-B46F-51F3E1EB9CFB}|GastosApi\\GastosApi.csproj|c:\\users\\camil\\source\\repos\\gastosapi\\gastosapi\\gastosapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{77BFF0A9-10E1-4C65-B46F-51F3E1EB9CFB}|GastosApi\\GastosApi.csproj|solutionrelative:gastosapi\\gastosapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BFF0A9-10E1-4C65-B46F-51F3E1EB9CFB}|GastosApi\\GastosApi.csproj|c:\\users\\camil\\source\\repos\\gastosapi\\gastosapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BFF0A9-10E1-4C65-B46F-51F3E1EB9CFB}|GastosApi\\GastosApi.csproj|solutionrelative:gastosapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BFF0A9-10E1-4C65-B46F-51F3E1EB9CFB}|GastosApi\\GastosApi.csproj|c:\\users\\camil\\source\\repos\\gastosapi\\gastosapi\\migrations\\20250102215151_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BFF0A9-10E1-4C65-B46F-51F3E1EB9CFB}|GastosApi\\GastosApi.csproj|solutionrelative:gastosapi\\migrations\\20250102215151_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BFF0A9-10E1-4C65-B46F-51F3E1EB9CFB}|GastosApi\\GastosApi.csproj|c:\\users\\camil\\source\\repos\\gastosapi\\gastosapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BFF0A9-10E1-4C65-B46F-51F3E1EB9CFB}|GastosApi\\GastosApi.csproj|solutionrelative:gastosapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BFF0A9-10E1-4C65-B46F-51F3E1EB9CFB}|GastosApi\\GastosApi.csproj|c:\\users\\camil\\source\\repos\\gastosapi\\gastosapi\\gastosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77BFF0A9-10E1-4C65-B46F-51F3E1EB9CFB}|GastosApi\\GastosApi.csproj|solutionrelative:gastosapi\\gastosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\GastosApi\\GastosApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "GastosApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\GastosApi\\GastosApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "GastosApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T21:18:28.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\GastosApi\\GastosApi\\appsettings.json",
+              "RelativeDocumentMoniker": "GastosApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\GastosApi\\GastosApi\\appsettings.json",
+              "RelativeToolTip": "GastosApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-02T21:18:01.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\GastosApi\\GastosApi\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "GastosApi\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\GastosApi\\GastosApi\\Models\\Empleado.cs",
+              "RelativeToolTip": "GastosApi\\Models\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T21:17:02.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\GastosApi\\GastosApi\\Program.cs",
+              "RelativeDocumentMoniker": "GastosApi\\Program.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\GastosApi\\GastosApi\\Program.cs",
+              "RelativeToolTip": "GastosApi\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T21:40:54.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\GastosApi\\GastosApi\\Models\\Departamento.cs",
+              "RelativeDocumentMoniker": "GastosApi\\Models\\Departamento.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\GastosApi\\GastosApi\\Models\\Departamento.cs",
+              "RelativeToolTip": "GastosApi\\Models\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T21:17:28.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gasto.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\GastosApi\\GastosApi\\Models\\Gasto.cs",
+              "RelativeDocumentMoniker": "GastosApi\\Models\\Gasto.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\GastosApi\\GastosApi\\Models\\Gasto.cs",
+              "RelativeToolTip": "GastosApi\\Models\\Gasto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T21:17:47.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GastosController.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\GastosApi\\GastosApi\\Controllers\\GastosController.cs",
+              "RelativeDocumentMoniker": "GastosApi\\Controllers\\GastosController.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\GastosApi\\GastosApi\\Controllers\\GastosController.cs",
+              "RelativeToolTip": "GastosApi\\Controllers\\GastosController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T21:44:23.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GastosApi.http",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\GastosApi\\GastosApi\\GastosApi.http",
+              "RelativeDocumentMoniker": "GastosApi\\GastosApi.http",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\GastosApi\\GastosApi\\GastosApi.http",
+              "RelativeToolTip": "GastosApi\\GastosApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-02T21:15:10.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\GastosApi\\GastosApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "GastosApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\GastosApi\\GastosApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "GastosApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T22:10:49.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250102215151_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\GastosApi\\GastosApi\\Migrations\\20250102215151_InitialMigration.cs",
+              "RelativeDocumentMoniker": "GastosApi\\Migrations\\20250102215151_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\GastosApi\\GastosApi\\Migrations\\20250102215151_InitialMigration.cs",
+              "RelativeToolTip": "GastosApi\\Migrations\\20250102215151_InitialMigration.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T22:00:25.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\GastosApi\\GastosApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "GastosApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\GastosApi\\GastosApi\\WeatherForecast.cs",
+              "RelativeToolTip": "GastosApi\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T21:40:53.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GastosApi.csproj",
+              "DocumentMoniker": "C:\\Users\\camil\\source\\repos\\GastosApi\\GastosApi\\GastosApi.csproj",
+              "RelativeDocumentMoniker": "GastosApi\\GastosApi.csproj",
+              "ToolTip": "C:\\Users\\camil\\source\\repos\\GastosApi\\GastosApi\\GastosApi.csproj",
+              "RelativeToolTip": "GastosApi\\GastosApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-02T21:15:12.481Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

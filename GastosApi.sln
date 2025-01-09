@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GastosApi", "GastosApi\GastosApi.csproj", "{77BFF0A9-10E1-4C65-B46F-51F3E1EB9CFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77BFF0A9-10E1-4C65-B46F-51F3E1EB9CFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BFF0A9-10E1-4C65-B46F-51F3E1EB9CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77BFF0A9-10E1-4C65-B46F-51F3E1EB9CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77BFF0A9-10E1-4C65-B46F-51F3E1EB9CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0461F813-8FCB-4221-BB79-0F7A512E01FD}
+	EndGlobalSection
+EndGlobal
